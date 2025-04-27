@@ -1,3 +1,9 @@
 [submodule "assign1"]
 	path = assign1
 	url = https://github.com/Computer-Graphics-IITB/a1model-200050150_22m2119.git
+[submodule "assign2"]
+	path = assign2
+	url = https://github.com/Computer-Graphics-IITB/a2-fmx-model-200050150_22m2119.git
+[submodule "assign3"]
+	path = assign3
+	url = https://github.com/Computer-Graphics-IITB/a3-fmx-animate-200050150_22m2119.git
